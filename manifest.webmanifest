@@ -1,0 +1,13 @@
+{
+  "name": "Wolfsdorp — Weerwolven",
+  "short_name": "Wolfsdorp",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#19213a",
+  "theme_color": "#19213a",
+  "start_url": "./",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
